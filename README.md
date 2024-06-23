@@ -1,23 +1,22 @@
-'''
-ollama pull <model_name>
-'''
+```
+ollama pull < model_name>
+```
 
-'''
+```
 ollama run <model_name>
-'''
+```
 
-'''
+```
 ollama create <ANY_AGENT_NAME> -f modelfile
-'''
+```
 
-'''
+```
 ollama run <ANY_AGENT_NAME>
-'''
+```
 
-'''
-official repo of ollama: https://github.com/ollama/ollama 
-'''
-
-'''
-ollama webui repo: https://github.com/open-webui/open-webui
-'''
+```
+offical repo of ollama: https://github.com/ollama/ollama
+```
+```
+ollama webui repo:https://github.com/open-webui/open-webui
+```
