@@ -1,5 +1,5 @@
 ```
-ollama pull < model_name>
+ollama pull <model_name>
 ```
 
 ```
@@ -17,6 +17,7 @@ ollama run <ANY_AGENT_NAME>
 ```
 offical repo of ollama: https://github.com/ollama/ollama
 ```
+
 ```
 ollama webui repo:https://github.com/open-webui/open-webui
 ```
